@@ -8,9 +8,15 @@ This is a simple Flask web application deployed on an AWS EC2 instance as a demo
 
 - Python + Flask web framework
 - Hosted on AWS EC2 (Amazon Linux 2023)
-- Publicly accessible via `http://<ec2-ip>:5000`
+- Publicly accessible via `http://13.201.73.89:5000`
 - Includes `requirements.txt` for easy setup
 - Minimal and production-friendly project structure
+
+---
+
+## 🔗 Live Demo
+
+🌐 Try it here: [http://13.201.73.89:5000](http://13.201.73.89:5000)
 
 ---
 
